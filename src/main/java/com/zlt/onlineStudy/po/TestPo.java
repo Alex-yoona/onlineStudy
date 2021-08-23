@@ -1,4 +1,4 @@
 package com.zlt.onlineStudy.po;
 
-public class Test {
+public class TestPo {
 }

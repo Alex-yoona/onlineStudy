@@ -1,4 +1,4 @@
 package com.zlt.onlineStudy.controller;
 
-public class Test {
+public class TestController {
 }
