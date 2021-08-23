@@ -1,4 +1,4 @@
 package com.zlt.onlineStudy.mapper;
 
-public class Test {
+public class TestMapper {
 }
