@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.zlt.onlineStudy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
